@@ -15,6 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="17141-연구소 2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="16918-봄버맨.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
