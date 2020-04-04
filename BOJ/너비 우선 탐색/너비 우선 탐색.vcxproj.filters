@@ -24,6 +24,9 @@
     <ClCompile Include="16946-벽 부수고 이동하기 4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="17071-숨바꼭질 5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
