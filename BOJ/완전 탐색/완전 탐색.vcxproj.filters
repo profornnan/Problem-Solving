@@ -23,5 +23,8 @@
     <ClCompile Include="15997-승부 예측.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="15686-치킨 배달.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
