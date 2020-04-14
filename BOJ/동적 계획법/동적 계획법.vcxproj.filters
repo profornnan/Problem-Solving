@@ -24,6 +24,9 @@
     <ClCompile Include="1793-타일링.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2098-외판원 순회.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
