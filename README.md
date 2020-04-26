@@ -21,6 +21,8 @@
 * [1932-정수 삼각형](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95/1932-%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.cpp)
 * [2098-외판원 순회](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95/2098-%EC%99%B8%ED%8C%90%EC%9B%90%20%EC%88%9C%ED%9A%8C.cpp)
 * [2758-로또](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95/2758-%EB%A1%9C%EB%98%90.cpp)
+#### 분리 집합
+* [16562-친구비](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EB%B6%84%EB%A6%AC%20%EC%A7%91%ED%95%A9/16562-%EC%B9%9C%EA%B5%AC%EB%B9%84.cpp)
 #### 수학
 * [13458-시험 감독](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EC%88%98%ED%95%99/13458-%EC%8B%9C%ED%97%98%20%EA%B0%90%EB%8F%85.cpp)
 #### 시뮬레이션
