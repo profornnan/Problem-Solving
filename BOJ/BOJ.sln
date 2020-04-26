@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "시뮬레이션", "시뮬�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "수학", "수학\수학.vcxproj", "{B401BE76-943A-4BCA-A092-5E07E57DFCAF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "분리 집합", "분리 집합\분리 집합.vcxproj", "{BA6D7E0B-9027-4E29-BD33-53C29C950FC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{B401BE76-943A-4BCA-A092-5E07E57DFCAF}.Release|x64.Build.0 = Release|x64
 		{B401BE76-943A-4BCA-A092-5E07E57DFCAF}.Release|x86.ActiveCfg = Release|Win32
 		{B401BE76-943A-4BCA-A092-5E07E57DFCAF}.Release|x86.Build.0 = Release|Win32
+		{BA6D7E0B-9027-4E29-BD33-53C29C950FC5}.Debug|x64.ActiveCfg = Debug|x64
+		{BA6D7E0B-9027-4E29-BD33-53C29C950FC5}.Debug|x64.Build.0 = Debug|x64
+		{BA6D7E0B-9027-4E29-BD33-53C29C950FC5}.Debug|x86.ActiveCfg = Debug|Win32
+		{BA6D7E0B-9027-4E29-BD33-53C29C950FC5}.Debug|x86.Build.0 = Debug|Win32
+		{BA6D7E0B-9027-4E29-BD33-53C29C950FC5}.Release|x64.ActiveCfg = Release|x64
+		{BA6D7E0B-9027-4E29-BD33-53C29C950FC5}.Release|x64.Build.0 = Release|x64
+		{BA6D7E0B-9027-4E29-BD33-53C29C950FC5}.Release|x86.ActiveCfg = Release|Win32
+		{BA6D7E0B-9027-4E29-BD33-53C29C950FC5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
