@@ -12,6 +12,7 @@
 #### 너비 우선 탐색
 * [2206-벽 부수고 이동하기](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89/2206-%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.cpp)
 * [3187-양치기 꿍](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89/3187-%EC%96%91%EC%B9%98%EA%B8%B0%20%EA%BF%8D.cpp)
+* [13460-구슬 탈출 2](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89/13460-%EA%B5%AC%EC%8A%AC%20%ED%83%88%EC%B6%9C%202.cpp)
 * [16918-봄버맨](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89/16918-%EB%B4%84%EB%B2%84%EB%A7%A8.cpp)
 * [16946-벽 부수고 이동하기 4](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89/16946-%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0%204.cpp)
 * [16988-Baaaaaaaaaduk2 (Easy)](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89/16988-Baaaaaaaaaduk2%20(Easy).cpp)
