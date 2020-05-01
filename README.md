@@ -5,6 +5,7 @@
 #### 구현
 * [2163-초콜릿 자르기](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B5%AC%ED%98%84/2163-%EC%B4%88%EC%BD%9C%EB%A6%BF%20%EC%9E%90%EB%A5%B4%EA%B8%B0.cpp)
 * [2455-지능형 기차](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B5%AC%ED%98%84/2455-%EC%A7%80%EB%8A%A5%ED%98%95%20%EA%B8%B0%EC%B0%A8.cpp)
+* [12100-2048 (Easy)](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B5%AC%ED%98%84/12100-2048%20(Easy).cpp)
 #### 그래프 이론
 * [9372-상근이의 여행](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0/9372-%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%20%EC%97%AC%ED%96%89.cpp)
 #### 깊이 우선 탐색
