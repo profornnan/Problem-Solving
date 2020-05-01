@@ -26,5 +26,8 @@
     <ClCompile Include="2163-초콜릿 자르기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="12100-2048 (Easy).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
