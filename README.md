@@ -29,6 +29,7 @@
 #### 수학
 * [13458-시험 감독](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EC%88%98%ED%95%99/13458-%EC%8B%9C%ED%97%98%20%EA%B0%90%EB%8F%85.cpp)
 #### 시뮬레이션
+* [3190-뱀](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/3190-%EB%B1%80.cpp)
 * [14499-주사위 굴리기](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/14499-%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B0.cpp)
 * [18808-스티커 붙이기](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/18808-%EC%8A%A4%ED%8B%B0%EC%BB%A4%20%EB%B6%99%EC%9D%B4%EA%B8%B0.cpp)
 #### 완전 탐색
