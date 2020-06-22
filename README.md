@@ -8,6 +8,8 @@
 * [12100-2048 (Easy)](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B5%AC%ED%98%84/12100-2048%20(Easy).cpp)
 #### 그래프 이론
 * [9372-상근이의 여행](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0/9372-%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%20%EC%97%AC%ED%96%89.cpp)
+#### 그리디 알고리즘
+* [14698-전생했더니 슬라임 연구자였던 건에 대하여 (Hard)](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/14698-%EC%A0%84%EC%83%9D%ED%96%88%EB%8D%94%EB%8B%88%20%EC%8A%AC%EB%9D%BC%EC%9E%84%20%EC%97%B0%EA%B5%AC%EC%9E%90%EC%98%80%EB%8D%98%20%EA%B1%B4%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC%20(Hard).cpp)
 #### 깊이 우선 탐색
 * [5021-왕위 계승](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B9%8A%EC%9D%B4%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89/5021-%EC%99%95%EC%9C%84%20%EA%B3%84%EC%8A%B9.cpp)
 #### 너비 우선 탐색
