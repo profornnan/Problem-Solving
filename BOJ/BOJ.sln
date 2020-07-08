@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "분리 집합", "분리 집
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "그리디 알고리즘", "그리디 알고리즘\그리디 알고리즘.vcxproj", "{DF3BA758-42F2-4814-BD94-EB6F533AB1DD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "두 포인터", "두 포인터\두 포인터.vcxproj", "{85C489F5-FED9-4CCF-A0B1-6772CC5555A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{DF3BA758-42F2-4814-BD94-EB6F533AB1DD}.Release|x64.Build.0 = Release|x64
 		{DF3BA758-42F2-4814-BD94-EB6F533AB1DD}.Release|x86.ActiveCfg = Release|Win32
 		{DF3BA758-42F2-4814-BD94-EB6F533AB1DD}.Release|x86.Build.0 = Release|Win32
+		{85C489F5-FED9-4CCF-A0B1-6772CC5555A1}.Debug|x64.ActiveCfg = Debug|x64
+		{85C489F5-FED9-4CCF-A0B1-6772CC5555A1}.Debug|x64.Build.0 = Debug|x64
+		{85C489F5-FED9-4CCF-A0B1-6772CC5555A1}.Debug|x86.ActiveCfg = Debug|Win32
+		{85C489F5-FED9-4CCF-A0B1-6772CC5555A1}.Debug|x86.Build.0 = Debug|Win32
+		{85C489F5-FED9-4CCF-A0B1-6772CC5555A1}.Release|x64.ActiveCfg = Release|x64
+		{85C489F5-FED9-4CCF-A0B1-6772CC5555A1}.Release|x64.Build.0 = Release|x64
+		{85C489F5-FED9-4CCF-A0B1-6772CC5555A1}.Release|x86.ActiveCfg = Release|Win32
+		{85C489F5-FED9-4CCF-A0B1-6772CC5555A1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
