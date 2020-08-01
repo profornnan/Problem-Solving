@@ -23,5 +23,8 @@
     <ClCompile Include="1034-램프.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1038-감소하는 수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
