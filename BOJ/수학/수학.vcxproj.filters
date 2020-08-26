@@ -26,5 +26,8 @@
     <ClCompile Include="1089-엘리베이터.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1188-음식 평론가.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
