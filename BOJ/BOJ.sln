@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "위상 정렬", "위상 정
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "다익스트라", "다익스트라\다익스트라.vcxproj", "{90994871-AF75-426D-8F9D-56EB733D01F6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "비트필드를 이용한 다이나믹 프로그래밍", "비트필드를 이용한 다이나믹 프로그래밍\비트필드를 이용한 다이나믹 프로그래밍.vcxproj", "{E1EFBB63-E990-41CB-AC55-FAD03BB96730}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{90994871-AF75-426D-8F9D-56EB733D01F6}.Release|x64.Build.0 = Release|x64
 		{90994871-AF75-426D-8F9D-56EB733D01F6}.Release|x86.ActiveCfg = Release|Win32
 		{90994871-AF75-426D-8F9D-56EB733D01F6}.Release|x86.Build.0 = Release|Win32
+		{E1EFBB63-E990-41CB-AC55-FAD03BB96730}.Debug|x64.ActiveCfg = Debug|x64
+		{E1EFBB63-E990-41CB-AC55-FAD03BB96730}.Debug|x64.Build.0 = Debug|x64
+		{E1EFBB63-E990-41CB-AC55-FAD03BB96730}.Debug|x86.ActiveCfg = Debug|Win32
+		{E1EFBB63-E990-41CB-AC55-FAD03BB96730}.Debug|x86.Build.0 = Debug|Win32
+		{E1EFBB63-E990-41CB-AC55-FAD03BB96730}.Release|x64.ActiveCfg = Release|x64
+		{E1EFBB63-E990-41CB-AC55-FAD03BB96730}.Release|x64.Build.0 = Release|x64
+		{E1EFBB63-E990-41CB-AC55-FAD03BB96730}.Release|x86.ActiveCfg = Release|Win32
+		{E1EFBB63-E990-41CB-AC55-FAD03BB96730}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
