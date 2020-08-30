@@ -35,5 +35,8 @@
     <ClCompile Include="2064-IP 주소.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2174-로봇 시뮬레이션.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
