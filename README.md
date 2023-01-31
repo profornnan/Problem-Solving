@@ -51,3 +51,9 @@
 * [14627-파닭파닭](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89/14627-%ED%8C%8C%EB%8B%AD%ED%8C%8C%EB%8B%AD.cpp)
 #### 최소 신장 트리
 * [2406-안정적인 네트워크](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/2406-%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.cpp)
+
+## SWEA
+
+- [2112-보호 필름](https://github.com/profornnan/Problem-Solving/blob/master/SWEA/%EB%AF%B8%EB%B6%84%EB%A5%98/2112-%EB%B3%B4%ED%98%B8%20%ED%95%84%EB%A6%84.cpp)
+- [2117-홈 방범 서비스](https://github.com/profornnan/Problem-Solving/blob/master/SWEA/%EB%AF%B8%EB%B6%84%EB%A5%98/2117-%ED%99%88%20%EB%B0%A9%EB%B2%94%20%EC%84%9C%EB%B9%84%EC%8A%A4.cpp)
+
