@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="2117-input.txt">
-      <Filter>리소스 파일</Filter>
-    </Text>
-    <Text Include="2117-output.txt">
-      <Filter>리소스 파일</Filter>
-    </Text>
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="2117-홈 방범 서비스.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2112-보호 필름.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="sample_input.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
   </ItemGroup>
 </Project>

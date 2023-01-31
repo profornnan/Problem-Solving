@@ -138,11 +138,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="2117-input.txt" />
-    <Text Include="2117-output.txt" />
+    <ClCompile Include="2112-보호 필름.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="2117-홈 방범 서비스.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2117-홈 방범 서비스.cpp" />
+    <Text Include="sample_input.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

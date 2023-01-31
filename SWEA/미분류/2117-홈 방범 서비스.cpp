@@ -45,7 +45,6 @@ void solve(int sy, int sx) {
 int main(void)
 {
 	sws;
-	freopen("2117-input.txt", "r", stdin);
 	int tc;
 	cin >> tc;
 	for (int t = 1; t <= tc; t++) {
