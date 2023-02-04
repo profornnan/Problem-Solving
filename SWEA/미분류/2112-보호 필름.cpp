@@ -65,7 +65,6 @@ void dfs(int row) {
 }
 
 int main(void) {
-	freopen("sample_input.txt", "r", stdin);
 	cin >> T;
 
 	for (int t = 0; t < T; t++) {
