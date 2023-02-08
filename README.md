@@ -58,4 +58,5 @@
 - [2105-디저트 카페](https://github.com/profornnan/Problem-Solving/blob/master/SWEA/%EB%AF%B8%EB%B6%84%EB%A5%98/2105-%EB%94%94%EC%A0%80%ED%8A%B8%20%EC%B9%B4%ED%8E%98.cpp)
 - [2112-보호 필름](https://github.com/profornnan/Problem-Solving/blob/master/SWEA/%EB%AF%B8%EB%B6%84%EB%A5%98/2112-%EB%B3%B4%ED%98%B8%20%ED%95%84%EB%A6%84.cpp)
 - [2117-홈 방범 서비스](https://github.com/profornnan/Problem-Solving/blob/master/SWEA/%EB%AF%B8%EB%B6%84%EB%A5%98/2117-%ED%99%88%20%EB%B0%A9%EB%B2%94%20%EC%84%9C%EB%B9%84%EC%8A%A4.cpp)
+- [2382-미생물 격리](https://github.com/profornnan/Problem-Solving/blob/master/SWEA/%EB%AF%B8%EB%B6%84%EB%A5%98/2382-%EB%AF%B8%EC%83%9D%EB%AC%BC%20%EA%B2%A9%EB%A6%AC.cpp)
 
