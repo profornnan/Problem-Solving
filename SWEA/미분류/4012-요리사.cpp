@@ -42,7 +42,6 @@ void dfs(int level) {
 }
 
 int main(void) {
-	freopen("sample_input.txt", "r", stdin);
 	int T;
 	cin >> T;
 

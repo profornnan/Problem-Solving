@@ -39,6 +39,9 @@
     <ClCompile Include="4012-요리사.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5644-무선 충전.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="sample_input.txt">

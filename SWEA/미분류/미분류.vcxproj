@@ -159,7 +159,10 @@
     <ClCompile Include="4008-숫자 만들기.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="4012-요리사.cpp" />
+    <ClCompile Include="4012-요리사.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="5644-무선 충전.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="sample_input.txt" />
