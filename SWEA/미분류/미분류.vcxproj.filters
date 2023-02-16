@@ -48,6 +48,9 @@
     <ClCompile Include="2115-벌꿀채취.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2383-점심 식사시간.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="sample_input.txt">
