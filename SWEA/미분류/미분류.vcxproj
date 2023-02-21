@@ -177,10 +177,13 @@
     <ClCompile Include="4013-특이한 자석.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="4014-활주로 건설.cpp" />
+    <ClCompile Include="4014-활주로 건설.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="5644-무선 충전.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="7194-화섭이의 미생물 배양.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="sample_input.txt" />
