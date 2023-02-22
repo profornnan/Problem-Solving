@@ -1,63 +1,93 @@
 #include <iostream>
 #include <queue>
-#include <cstring>
-#define sws ios::sync_with_stdio(false), cin.tie(NULL);
+#include <algorithm>
 using namespace std;
 
-int dx[] = { 1, 0, -1, 0 };
-int dy[] = { 0, -1, 0, 1 };
-int n, m, max_cnt;
-int city[20][20];
-bool visited[20][20];
+struct Pos {
+	int y;
+	int x;
+};
 
-void solve(int sy, int sx) {
-	memset(visited, false, sizeof(visited));
-	int k = 0, cnt = 0;
-	queue<pair<int, int> > q;
-	visited[sy][sx] = true;
+int dx[]{ 1, 0, -1, 0 };
+int dy[]{ 0, -1, 0, 1 };
+
+int N, M;
+int MAP[20][20];
+int cost[45];
+int ans;
+int totalHome;
+
+void bfs(int sy, int sx) {
+	queue<Pos> q;
+	int visited[20][20]{};
+
 	q.push({ sy, sx });
+	visited[sy][sx] = 1;
+
+	int K = 1;
+	int home = 0;
+
 	while (!q.empty()) {
-		int q_size = q.size();
-		k++;
-		for (int j = 0; j < q_size; j++) {
-			int y = q.front().first;
-			int x = q.front().second;
+		int sz = q.size();
+
+		while (sz--) {
+			Pos now = q.front();
 			q.pop();
-			if (city[y][x] == 1)
-				cnt++;
+
+			if (MAP[now.y][now.x] == 1)
+				home++;
+
 			for (int i = 0; i < 4; i++) {
-				int ny = y + dy[i];
-				int nx = x + dx[i];
-				if (0 <= ny && ny < n && 0 <= nx && nx < n) {
-					if (visited[ny][nx] == false) {
-						visited[ny][nx] = true;
-						q.push({ ny, nx });
-					}
-				}
+				int ny = now.y + dy[i];
+				int nx = now.x + dx[i];
+
+				if (ny < 0 || ny >= N || nx < 0 || nx >= N) continue;
+				if (visited[ny][nx] != 0) continue;
+
+				q.push({ ny, nx });
+				visited[ny][nx] = 1;
 			}
 		}
-		int profit = cnt * m - (k * k + (k - 1) * (k - 1));
-		if (profit >= 0)
-			max_cnt = max_cnt > cnt ? max_cnt : cnt;
+
+		if (M * home - cost[K] >= 0)
+			ans = max(ans, home);
+
+		if (home == totalHome)
+			break;
+
+		K++;
 	}
 }
 
-int main(void)
-{
-	sws;
-	int tc;
-	cin >> tc;
-	for (int t = 1; t <= tc; t++) {
-		cout << '#' << t << ' ';
-		cin >> n >> m;
-		for (int y = 0; y < n; y++)
-			for (int x = 0; x < n; x++)
-				cin >> city[y][x];
-		max_cnt = 0;
-		for (int y = 0; y < n; y++)
-			for (int x = 0; x < n; x++)
-				solve(y, x);
-		cout << max_cnt << '\n';
+int main(void) {
+	int T;
+	cin >> T;
+
+	for (int i = 1; i < 45; i++)
+		cost[i] = i * i + (i - 1) * (i - 1);
+
+	for (int tc = 1; tc <= T; tc++) {
+		cout << '#' << tc << ' ';
+
+		ans = 0;
+		totalHome = 0;
+
+		cin >> N >> M;
+
+		for (int y = 0; y < N; y++) {
+			for (int x = 0; x < N; x++) {
+				cin >> MAP[y][x];
+				if (MAP[y][x] == 1)
+					totalHome++;
+			}
+		}
+
+		for (int y = 0; y < N; y++)
+			for (int x = 0; x < N; x++)
+				bfs(y, x);
+
+		cout << ans << '\n';
 	}
+
 	return 0;
 }
