@@ -69,6 +69,9 @@
     <ClCompile Include="1953-탈주범 검거.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5658-보물상자 비밀번호.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="sample_input.txt">
