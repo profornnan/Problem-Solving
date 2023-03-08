@@ -192,7 +192,10 @@
     <ClCompile Include="5650-핀볼 게임.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="5656-벽돌 깨기.cpp" />
+    <ClCompile Include="5653-줄기세포배양.cpp" />
+    <ClCompile Include="5656-벽돌 깨기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="5658-보물상자 비밀번호.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

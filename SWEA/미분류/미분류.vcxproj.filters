@@ -78,6 +78,9 @@
     <ClCompile Include="5656-벽돌 깨기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5653-줄기세포배양.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="sample_input.txt">
