@@ -26,5 +26,8 @@
     <ClCompile Include="2003-수들의 합 2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2842-집배원 한상덕.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
