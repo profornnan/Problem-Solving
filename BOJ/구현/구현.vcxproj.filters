@@ -38,5 +38,8 @@
     <ClCompile Include="2174-로봇 시뮬레이션.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="21608-상어 초등학교.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
