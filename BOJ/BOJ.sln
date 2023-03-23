@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "큐", "큐\큐.vcxproj", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "에라토스테네스의 체", "에라토스테네스의 체\에라토스테네스의 체.vcxproj", "{176337AF-BBE5-451D-B635-278C2E1A4F75}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "트라이", "트라이\트라이.vcxproj", "{4440FB79-8E15-4E37-8500-ED4B856F81AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +213,14 @@ Global
 		{176337AF-BBE5-451D-B635-278C2E1A4F75}.Release|x64.Build.0 = Release|x64
 		{176337AF-BBE5-451D-B635-278C2E1A4F75}.Release|x86.ActiveCfg = Release|Win32
 		{176337AF-BBE5-451D-B635-278C2E1A4F75}.Release|x86.Build.0 = Release|Win32
+		{4440FB79-8E15-4E37-8500-ED4B856F81AB}.Debug|x64.ActiveCfg = Debug|x64
+		{4440FB79-8E15-4E37-8500-ED4B856F81AB}.Debug|x64.Build.0 = Debug|x64
+		{4440FB79-8E15-4E37-8500-ED4B856F81AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{4440FB79-8E15-4E37-8500-ED4B856F81AB}.Debug|x86.Build.0 = Debug|Win32
+		{4440FB79-8E15-4E37-8500-ED4B856F81AB}.Release|x64.ActiveCfg = Release|x64
+		{4440FB79-8E15-4E37-8500-ED4B856F81AB}.Release|x64.Build.0 = Release|x64
+		{4440FB79-8E15-4E37-8500-ED4B856F81AB}.Release|x86.ActiveCfg = Release|Win32
+		{4440FB79-8E15-4E37-8500-ED4B856F81AB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
