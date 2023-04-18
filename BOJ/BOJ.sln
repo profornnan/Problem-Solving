@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "트라이", "트라이\트�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "희소 배열", "희소 배열\희소 배열.vcxproj", "{89934A93-4400-417C-9893-479082E08D7B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "최소 공통 조상", "최소 공통 조상\최소 공통 조상.vcxproj", "{7EDFF6BF-5A50-4838-99BA-9CD64A51A39E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -231,6 +233,14 @@ Global
 		{89934A93-4400-417C-9893-479082E08D7B}.Release|x64.Build.0 = Release|x64
 		{89934A93-4400-417C-9893-479082E08D7B}.Release|x86.ActiveCfg = Release|Win32
 		{89934A93-4400-417C-9893-479082E08D7B}.Release|x86.Build.0 = Release|Win32
+		{7EDFF6BF-5A50-4838-99BA-9CD64A51A39E}.Debug|x64.ActiveCfg = Debug|x64
+		{7EDFF6BF-5A50-4838-99BA-9CD64A51A39E}.Debug|x64.Build.0 = Debug|x64
+		{7EDFF6BF-5A50-4838-99BA-9CD64A51A39E}.Debug|x86.ActiveCfg = Debug|Win32
+		{7EDFF6BF-5A50-4838-99BA-9CD64A51A39E}.Debug|x86.Build.0 = Debug|Win32
+		{7EDFF6BF-5A50-4838-99BA-9CD64A51A39E}.Release|x64.ActiveCfg = Release|x64
+		{7EDFF6BF-5A50-4838-99BA-9CD64A51A39E}.Release|x64.Build.0 = Release|x64
+		{7EDFF6BF-5A50-4838-99BA-9CD64A51A39E}.Release|x86.ActiveCfg = Release|Win32
+		{7EDFF6BF-5A50-4838-99BA-9CD64A51A39E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
