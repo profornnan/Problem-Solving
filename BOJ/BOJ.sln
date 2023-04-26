@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "희소 배열", "희소 배
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "최소 공통 조상", "최소 공통 조상\최소 공통 조상.vcxproj", "{7EDFF6BF-5A50-4838-99BA-9CD64A51A39E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "병렬 이분 탐색", "병렬 이분 탐색\병렬 이분 탐색.vcxproj", "{2AAFF000-C7B3-45B0-943C-E8696F891B00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{7EDFF6BF-5A50-4838-99BA-9CD64A51A39E}.Release|x64.Build.0 = Release|x64
 		{7EDFF6BF-5A50-4838-99BA-9CD64A51A39E}.Release|x86.ActiveCfg = Release|Win32
 		{7EDFF6BF-5A50-4838-99BA-9CD64A51A39E}.Release|x86.Build.0 = Release|Win32
+		{2AAFF000-C7B3-45B0-943C-E8696F891B00}.Debug|x64.ActiveCfg = Debug|x64
+		{2AAFF000-C7B3-45B0-943C-E8696F891B00}.Debug|x64.Build.0 = Debug|x64
+		{2AAFF000-C7B3-45B0-943C-E8696F891B00}.Debug|x86.ActiveCfg = Debug|Win32
+		{2AAFF000-C7B3-45B0-943C-E8696F891B00}.Debug|x86.Build.0 = Debug|Win32
+		{2AAFF000-C7B3-45B0-943C-E8696F891B00}.Release|x64.ActiveCfg = Release|x64
+		{2AAFF000-C7B3-45B0-943C-E8696F891B00}.Release|x64.Build.0 = Release|x64
+		{2AAFF000-C7B3-45B0-943C-E8696F891B00}.Release|x86.ActiveCfg = Release|Win32
+		{2AAFF000-C7B3-45B0-943C-E8696F891B00}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
