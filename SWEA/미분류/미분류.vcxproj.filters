@@ -87,6 +87,9 @@
     <ClCompile Include="1288-새로운 불면증 치료법.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10726-이진수 표현.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="sample_input.txt">
