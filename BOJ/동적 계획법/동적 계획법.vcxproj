@@ -159,7 +159,9 @@
     <ClCompile Include="17404-RGB거리 2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="17626-Four Squares.cpp" />
+    <ClCompile Include="17626-Four Squares.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="1793-타일링.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -175,6 +177,7 @@
     <ClCompile Include="2758-로또.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="4991-로봇 청소기.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
