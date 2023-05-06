@@ -54,6 +54,9 @@
     <ClCompile Include="2636-치즈.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9328-열쇠.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

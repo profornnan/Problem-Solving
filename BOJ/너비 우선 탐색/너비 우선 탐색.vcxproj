@@ -52,10 +52,13 @@
     <ClCompile Include="22949-회전 미로 탐색.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="2636-치즈.cpp" />
+    <ClCompile Include="2636-치즈.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="3187-양치기 꿍.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="9328-열쇠.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
