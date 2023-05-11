@@ -18,6 +18,9 @@
     <ClCompile Include="10868-최솟값.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10999-구간 합 구하기 2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
