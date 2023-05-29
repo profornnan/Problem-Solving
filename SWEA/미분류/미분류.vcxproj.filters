@@ -102,6 +102,9 @@
     <ClCompile Include="1868-파핑파핑 지뢰찾기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1855-영준이의 진짜 BFS.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="sample_input.txt">
