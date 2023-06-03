@@ -18,6 +18,9 @@
     <ClCompile Include="1725-히스토그램.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2263-트리의 순회.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
