@@ -138,7 +138,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="11438-LCA 2.cpp" />
+    <ClCompile Include="11438-LCA 2.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="3176-도로 네트워크.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
