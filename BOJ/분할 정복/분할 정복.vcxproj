@@ -141,7 +141,10 @@
     <ClCompile Include="1725-히스토그램.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="2263-트리의 순회.cpp" />
+    <ClCompile Include="2263-트리의 순회.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="6597-트리 복구.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
