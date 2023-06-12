@@ -1,38 +1,42 @@
 #include <iostream>
-#include <cstring>
+#include <vector>
 #include <algorithm>
-#define sws ios::sync_with_stdio(false), cin.tie(NULL)
 using namespace std;
 
-const int INF = 987654321;
-int n;
-int cost[1000][3];  // R = 0, G = 1, B = 2
-int d[1000][3];
+constexpr int INF = 987654321;
+enum { R, G, B };
 
-int main(void)
-{
-	sws;
-	freopen("input.txt", "r", stdin);
-	cin >> n;
+int main(void) {
+	cin.tie(nullptr)->sync_with_stdio(false);
+	
+	int N;
+	cin >> N;
+	
+	vector<vector<int>> cost(N, vector<int>(3));
+	vector<vector<int>> dp(N, vector<int>(3));
+
 	int ans = INF;
-	for (int i = 0; i < n; i++)
-		cin >> cost[i][0] >> cost[i][1] >> cost[i][2];
-	for (int k = 0; k < 3; k++) {
-		memset(d, 0, sizeof(d));
-		for (int i = 0; i < 3; i++)
-			d[0][0] = d[0][1] = d[0][2] = INF;
-		d[0][k] = cost[0][k];
-		for (int i = 1; i < n; i++) {
-			d[i][0] = cost[i][0] + min(d[i - 1][1], d[i - 1][2]);
-			d[i][1] = cost[i][1] + min(d[i - 1][0], d[i - 1][2]);
-			d[i][2] = cost[i][2] + min(d[i - 1][0], d[i - 1][1]);
+	
+	for (int i = 0; i < N; i++)
+		cin >> cost[i][R] >> cost[i][G] >> cost[i][B];
+
+	for (int startColor = 0; startColor < 3; startColor++) {
+		dp[0][R] = dp[0][G] = dp[0][B] = INF;
+		dp[0][startColor] = cost[0][startColor];
+
+		for (int i = 1; i < N; i++) {
+			dp[i][R] = cost[i][R] + min(dp[i - 1][G], dp[i - 1][B]);
+			dp[i][G] = cost[i][G] + min(dp[i - 1][R], dp[i - 1][B]);
+			dp[i][B] = cost[i][B] + min(dp[i - 1][R], dp[i - 1][G]);
 		}
-		for (int i = 0; i < 3; i++) {
-			if (i == k)
-				continue;
-			ans = min(ans, d[n - 1][i]);
+
+		for (int endColor = 0; endColor < 3; endColor++) {
+			if (endColor == startColor) continue;
+			ans = min(ans, dp[N - 1][endColor]);
 		}
 	}
+
 	cout << ans << '\n';
+
 	return 0;
 }
