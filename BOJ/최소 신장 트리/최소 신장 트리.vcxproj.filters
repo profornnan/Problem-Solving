@@ -26,5 +26,8 @@
     <ClCompile Include="2887-행성 터널.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14621-나만 안되는 연애.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
