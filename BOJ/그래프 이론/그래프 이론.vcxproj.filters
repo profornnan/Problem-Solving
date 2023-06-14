@@ -29,5 +29,8 @@
     <ClCompile Include="1167-트리의 지름.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1115-순열.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
