@@ -59,6 +59,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "분할 정복", "분할 정
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "슬라이딩 윈도우", "슬라이딩 윈도우\슬라이딩 윈도우.vcxproj", "{34B87156-BEF3-4068-A7C0-E0ECCF64480C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "덱", "덱\덱.vcxproj", "{17A0CFCB-52C2-4EB8-A020-93014613F66E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -291,6 +293,14 @@ Global
 		{34B87156-BEF3-4068-A7C0-E0ECCF64480C}.Release|x64.Build.0 = Release|x64
 		{34B87156-BEF3-4068-A7C0-E0ECCF64480C}.Release|x86.ActiveCfg = Release|Win32
 		{34B87156-BEF3-4068-A7C0-E0ECCF64480C}.Release|x86.Build.0 = Release|Win32
+		{17A0CFCB-52C2-4EB8-A020-93014613F66E}.Debug|x64.ActiveCfg = Debug|x64
+		{17A0CFCB-52C2-4EB8-A020-93014613F66E}.Debug|x64.Build.0 = Debug|x64
+		{17A0CFCB-52C2-4EB8-A020-93014613F66E}.Debug|x86.ActiveCfg = Debug|Win32
+		{17A0CFCB-52C2-4EB8-A020-93014613F66E}.Debug|x86.Build.0 = Debug|Win32
+		{17A0CFCB-52C2-4EB8-A020-93014613F66E}.Release|x64.ActiveCfg = Release|x64
+		{17A0CFCB-52C2-4EB8-A020-93014613F66E}.Release|x64.Build.0 = Release|x64
+		{17A0CFCB-52C2-4EB8-A020-93014613F66E}.Release|x86.ActiveCfg = Release|Win32
+		{17A0CFCB-52C2-4EB8-A020-93014613F66E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
