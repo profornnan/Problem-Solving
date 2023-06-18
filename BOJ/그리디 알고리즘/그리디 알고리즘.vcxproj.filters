@@ -39,6 +39,9 @@
     <ClCompile Include="1202-보석 도둑.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1339-단어 수학.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
