@@ -24,6 +24,9 @@
     <ClCompile Include="6597-트리 복구.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="21870-시철이가 사랑한 GCD.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
