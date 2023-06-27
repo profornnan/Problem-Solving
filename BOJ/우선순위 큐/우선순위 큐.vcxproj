@@ -138,7 +138,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1655-가운데를 말해요.cpp" />
+    <ClCompile Include="1655-가운데를 말해요.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="1715-카드 정렬하기.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
