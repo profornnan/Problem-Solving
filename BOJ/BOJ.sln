@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "슬라이딩 윈도우", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "덱", "덱\덱.vcxproj", "{17A0CFCB-52C2-4EB8-A020-93014613F66E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "이분 매칭", "이분 매칭\이분 매칭.vcxproj", "{1B1527D8-C690-43B3-9E39-9047A9631A92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -301,6 +303,14 @@ Global
 		{17A0CFCB-52C2-4EB8-A020-93014613F66E}.Release|x64.Build.0 = Release|x64
 		{17A0CFCB-52C2-4EB8-A020-93014613F66E}.Release|x86.ActiveCfg = Release|Win32
 		{17A0CFCB-52C2-4EB8-A020-93014613F66E}.Release|x86.Build.0 = Release|Win32
+		{1B1527D8-C690-43B3-9E39-9047A9631A92}.Debug|x64.ActiveCfg = Debug|x64
+		{1B1527D8-C690-43B3-9E39-9047A9631A92}.Debug|x64.Build.0 = Debug|x64
+		{1B1527D8-C690-43B3-9E39-9047A9631A92}.Debug|x86.ActiveCfg = Debug|Win32
+		{1B1527D8-C690-43B3-9E39-9047A9631A92}.Debug|x86.Build.0 = Debug|Win32
+		{1B1527D8-C690-43B3-9E39-9047A9631A92}.Release|x64.ActiveCfg = Release|x64
+		{1B1527D8-C690-43B3-9E39-9047A9631A92}.Release|x64.Build.0 = Release|x64
+		{1B1527D8-C690-43B3-9E39-9047A9631A92}.Release|x86.ActiveCfg = Release|Win32
+		{1B1527D8-C690-43B3-9E39-9047A9631A92}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
