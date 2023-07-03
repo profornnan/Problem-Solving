@@ -142,7 +142,10 @@
     <Text Include="input.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="11657-타임머신.cpp" />
+    <ClCompile Include="11657-타임머신.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="1865-웜홀.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
