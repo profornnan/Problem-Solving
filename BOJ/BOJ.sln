@@ -67,6 +67,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "플로이드–워셜", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "벨만–포드", "벨만–포드\벨만–포드.vcxproj", "{B3522C0C-009A-47F6-B866-5B1EDB63B0D8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "단절점과 단절선", "단절점과 단절선\단절점과 단절선.vcxproj", "{35B94957-DC1B-4462-AE60-CA0E37E4637F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -331,6 +333,14 @@ Global
 		{B3522C0C-009A-47F6-B866-5B1EDB63B0D8}.Release|x64.Build.0 = Release|x64
 		{B3522C0C-009A-47F6-B866-5B1EDB63B0D8}.Release|x86.ActiveCfg = Release|Win32
 		{B3522C0C-009A-47F6-B866-5B1EDB63B0D8}.Release|x86.Build.0 = Release|Win32
+		{35B94957-DC1B-4462-AE60-CA0E37E4637F}.Debug|x64.ActiveCfg = Debug|x64
+		{35B94957-DC1B-4462-AE60-CA0E37E4637F}.Debug|x64.Build.0 = Debug|x64
+		{35B94957-DC1B-4462-AE60-CA0E37E4637F}.Debug|x86.ActiveCfg = Debug|Win32
+		{35B94957-DC1B-4462-AE60-CA0E37E4637F}.Debug|x86.Build.0 = Debug|Win32
+		{35B94957-DC1B-4462-AE60-CA0E37E4637F}.Release|x64.ActiveCfg = Release|x64
+		{35B94957-DC1B-4462-AE60-CA0E37E4637F}.Release|x64.Build.0 = Release|x64
+		{35B94957-DC1B-4462-AE60-CA0E37E4637F}.Release|x86.ActiveCfg = Release|Win32
+		{35B94957-DC1B-4462-AE60-CA0E37E4637F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
