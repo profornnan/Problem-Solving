@@ -32,5 +32,8 @@
     <ClCompile Include="2252-줄 세우기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3665-최종 순위.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
