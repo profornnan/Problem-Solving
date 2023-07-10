@@ -71,6 +71,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "단절점과 단절선", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "강한 연결 요소", "강한 연결 요소\강한 연결 요소.vcxproj", "{A992ECF4-98C8-4C22-967E-751ACC569725}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "스택", "스택\스택.vcxproj", "{906A3B8A-FC11-440D-BCEE-1A6DF23F535D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -351,6 +353,14 @@ Global
 		{A992ECF4-98C8-4C22-967E-751ACC569725}.Release|x64.Build.0 = Release|x64
 		{A992ECF4-98C8-4C22-967E-751ACC569725}.Release|x86.ActiveCfg = Release|Win32
 		{A992ECF4-98C8-4C22-967E-751ACC569725}.Release|x86.Build.0 = Release|Win32
+		{906A3B8A-FC11-440D-BCEE-1A6DF23F535D}.Debug|x64.ActiveCfg = Debug|x64
+		{906A3B8A-FC11-440D-BCEE-1A6DF23F535D}.Debug|x64.Build.0 = Debug|x64
+		{906A3B8A-FC11-440D-BCEE-1A6DF23F535D}.Debug|x86.ActiveCfg = Debug|Win32
+		{906A3B8A-FC11-440D-BCEE-1A6DF23F535D}.Debug|x86.Build.0 = Debug|Win32
+		{906A3B8A-FC11-440D-BCEE-1A6DF23F535D}.Release|x64.ActiveCfg = Release|x64
+		{906A3B8A-FC11-440D-BCEE-1A6DF23F535D}.Release|x64.Build.0 = Release|x64
+		{906A3B8A-FC11-440D-BCEE-1A6DF23F535D}.Release|x86.ActiveCfg = Release|Win32
+		{906A3B8A-FC11-440D-BCEE-1A6DF23F535D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
