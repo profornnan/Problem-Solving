@@ -63,6 +63,9 @@
     <ClCompile Include="14002-가장 긴 증가하는 부분 수열 4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2342-Dance Dance Revolution.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
