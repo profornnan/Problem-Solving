@@ -29,7 +29,7 @@
 * [17141-연구소 2](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89/17141-%EC%97%B0%EA%B5%AC%EC%86%8C%202.cpp)
 #### 다익스트라
 
-* 개코 전쟁
+* [2325-개코전쟁](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC/2325-%EA%B0%9C%EC%BD%94%EC%A0%84%EC%9F%81.cpp)
 
 #### 동적 계획법
 * [1793-타일링](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95/1793-%ED%83%80%EC%9D%BC%EB%A7%81.cpp)
