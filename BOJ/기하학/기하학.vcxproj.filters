@@ -23,5 +23,8 @@
     <ClCompile Include="11758-CCW.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2166-다각형의 면적.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
