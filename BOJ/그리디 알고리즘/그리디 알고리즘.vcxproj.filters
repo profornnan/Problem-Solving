@@ -42,6 +42,9 @@
     <ClCompile Include="1339-단어 수학.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="24025-돌의 정령 줄세우기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
