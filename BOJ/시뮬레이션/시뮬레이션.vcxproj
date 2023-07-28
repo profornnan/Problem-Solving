@@ -159,7 +159,10 @@
     <ClCompile Include="19238-스타트 택시.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="20058-마법사 상어와 파이어스톰.cpp" />
+    <ClCompile Include="20055-컨베이어 벨트 위의 로봇.cpp" />
+    <ClCompile Include="20058-마법사 상어와 파이어스톰.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="23289-온풍기 안녕!.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

@@ -47,5 +47,8 @@
     <ClCompile Include="20058-마법사 상어와 파이어스톰.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="20055-컨베이어 벨트 위의 로봇.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
