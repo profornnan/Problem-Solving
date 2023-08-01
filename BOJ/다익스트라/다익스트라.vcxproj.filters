@@ -41,5 +41,8 @@
     <ClCompile Include="2325-개코전쟁.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="11779-최소비용 구하기 2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
