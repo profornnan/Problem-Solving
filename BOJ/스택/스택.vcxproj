@@ -87,6 +87,7 @@
       <SDLCheck>false</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -141,7 +142,10 @@
     <Text Include="input.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="6198-옥상 정원 꾸미기.cpp" />
+    <ClCompile Include="2493-탑.cpp" />
+    <ClCompile Include="6198-옥상 정원 꾸미기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
