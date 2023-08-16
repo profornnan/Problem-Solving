@@ -2,12 +2,20 @@
 
 ## BOJ
 
+#### 강한 연결 요소
+
+- [2150-Strongly Connected Component](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B0%95%ED%95%9C%20%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C/2150-Strongly%20Connected%20Component.cpp)
+
 #### 구현
 * [1195-킥다운](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B5%AC%ED%98%84/1195-%ED%82%A5%EB%8B%A4%EC%9A%B4.cpp)
-* [2064-IP 주소](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B5%AC%ED%98%84/2064-IP%20%EC%A3%BC%EC%86%8C.cpp)
-* [2163-초콜릿 자르기](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B5%AC%ED%98%84/2163-%EC%B4%88%EC%BD%9C%EB%A6%BF%20%EC%9E%90%EB%A5%B4%EA%B8%B0.cpp)
-* [2455-지능형 기차](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B5%AC%ED%98%84/2455-%EC%A7%80%EB%8A%A5%ED%98%95%20%EA%B8%B0%EC%B0%A8.cpp)
 * [12100-2048 (Easy)](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B5%AC%ED%98%84/12100-2048%20(Easy).cpp)
+* [17780-새로운 게임](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B5%AC%ED%98%84/17780-%EC%83%88%EB%A1%9C%EC%9A%B4%20%EA%B2%8C%EC%9E%84.cpp)
+* [2064-IP 주소](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B5%AC%ED%98%84/2064-IP%20%EC%A3%BC%EC%86%8C.cpp)
+* [21608-상어 초등학교](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B5%AC%ED%98%84/21608-%EC%83%81%EC%96%B4%20%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90.cpp)
+* [21609-상어 중학교](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B5%AC%ED%98%84/21609-%EC%83%81%EC%96%B4%20%EC%A4%91%ED%95%99%EA%B5%90.cpp)
+* [2163-초콜릿 자르기](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B5%AC%ED%98%84/2163-%EC%B4%88%EC%BD%9C%EB%A6%BF%20%EC%9E%90%EB%A5%B4%EA%B8%B0.cpp)
+* [2174-로봇 시뮬레이션](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B5%AC%ED%98%84/2174-%EB%A1%9C%EB%B4%87%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98.cpp)
+* [2455-지능형 기차](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B5%AC%ED%98%84/2455-%EC%A7%80%EB%8A%A5%ED%98%95%20%EA%B8%B0%EC%B0%A8.cpp)
 #### 그래프 이론
 * [9372-상근이의 여행](https://github.com/profornnan/Problem-Solving/blob/master/BOJ/%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0/9372-%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%20%EC%97%AC%ED%96%89.cpp)
 #### 그리디 알고리즘
