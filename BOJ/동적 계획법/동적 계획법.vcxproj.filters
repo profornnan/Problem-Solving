@@ -72,6 +72,9 @@
     <ClCompile Include="2096-내려가기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9461-파도반 수열.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
