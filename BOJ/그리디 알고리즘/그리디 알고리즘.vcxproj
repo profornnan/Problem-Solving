@@ -165,7 +165,10 @@
     <ClCompile Include="2212-센서.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="24025-돌의 정령 줄세우기.cpp" />
+    <ClCompile Include="24025-돌의 정령 줄세우기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="3655-먼저 가세요.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
