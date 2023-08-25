@@ -18,6 +18,9 @@
     <ClCompile Include="9576-책 나눠주기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="11375-열혈강호.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
