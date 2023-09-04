@@ -26,5 +26,8 @@
     <ClCompile Include="1405-미친 로봇.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1068-트리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
