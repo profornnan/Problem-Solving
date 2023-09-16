@@ -72,6 +72,9 @@
     <ClCompile Include="5427-불.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="11967-불켜기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
