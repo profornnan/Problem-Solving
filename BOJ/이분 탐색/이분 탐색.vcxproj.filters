@@ -38,5 +38,8 @@
     <ClCompile Include="3079-입국심사.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1508-레이스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
