@@ -41,5 +41,8 @@
     <ClCompile Include="1508-레이스.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2110-공유기 설치.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
