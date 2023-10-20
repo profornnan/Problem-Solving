@@ -60,6 +60,9 @@
     <ClCompile Include="1263-시간 관리.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="19598-최소 회의실 개수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
