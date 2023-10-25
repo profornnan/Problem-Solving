@@ -35,5 +35,8 @@
     <ClCompile Include="2467-용액.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="22988-재활용 캠페인.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
