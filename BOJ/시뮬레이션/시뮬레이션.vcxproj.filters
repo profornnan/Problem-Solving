@@ -53,5 +53,8 @@
     <ClCompile Include="23288-주사위 굴리기 2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="23291-어항 정리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
