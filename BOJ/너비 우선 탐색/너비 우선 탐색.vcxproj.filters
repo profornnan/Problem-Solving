@@ -87,6 +87,9 @@
     <ClCompile Include="18405-경쟁적 전염.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2310-어드벤처 게임.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
