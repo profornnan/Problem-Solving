@@ -79,6 +79,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "최대 유량", "최대 유
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "문자열", "문자열\문자열.vcxproj", "{DC56B5A7-9542-4199-B5AA-EF6F891CD39B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "분할 정복을 이용한 거듭제곱", "분할 정복을 이용한 거듭제곱\분할 정복을 이용한 거듭제곱.vcxproj", "{2AA89A1C-5B04-46CA-8244-BFCFB3B95BBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -391,6 +393,14 @@ Global
 		{DC56B5A7-9542-4199-B5AA-EF6F891CD39B}.Release|x64.Build.0 = Release|x64
 		{DC56B5A7-9542-4199-B5AA-EF6F891CD39B}.Release|x86.ActiveCfg = Release|Win32
 		{DC56B5A7-9542-4199-B5AA-EF6F891CD39B}.Release|x86.Build.0 = Release|Win32
+		{2AA89A1C-5B04-46CA-8244-BFCFB3B95BBC}.Debug|x64.ActiveCfg = Debug|x64
+		{2AA89A1C-5B04-46CA-8244-BFCFB3B95BBC}.Debug|x64.Build.0 = Debug|x64
+		{2AA89A1C-5B04-46CA-8244-BFCFB3B95BBC}.Debug|x86.ActiveCfg = Debug|Win32
+		{2AA89A1C-5B04-46CA-8244-BFCFB3B95BBC}.Debug|x86.Build.0 = Debug|Win32
+		{2AA89A1C-5B04-46CA-8244-BFCFB3B95BBC}.Release|x64.ActiveCfg = Release|x64
+		{2AA89A1C-5B04-46CA-8244-BFCFB3B95BBC}.Release|x64.Build.0 = Release|x64
+		{2AA89A1C-5B04-46CA-8244-BFCFB3B95BBC}.Release|x86.ActiveCfg = Release|Win32
+		{2AA89A1C-5B04-46CA-8244-BFCFB3B95BBC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
