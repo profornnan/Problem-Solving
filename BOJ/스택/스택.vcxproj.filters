@@ -29,5 +29,8 @@
     <ClCompile Include="1918-후위 표기식.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3015-오아시스 재결합.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
