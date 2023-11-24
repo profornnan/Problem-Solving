@@ -32,5 +32,8 @@
     <ClCompile Include="3015-오아시스 재결합.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1662-압축.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
