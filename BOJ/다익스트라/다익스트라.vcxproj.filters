@@ -59,5 +59,8 @@
     <ClCompile Include="4485-녹색 옷 입은 애가 젤다지.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1277-발전소 설치.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
