@@ -120,6 +120,9 @@
     <ClCompile Include="2533-사회망 서비스(SNS).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14267-회사 문화 1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
