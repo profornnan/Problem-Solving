@@ -66,6 +66,9 @@
     <ClCompile Include="12904-A와 B.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1041-주사위.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
