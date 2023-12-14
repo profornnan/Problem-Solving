@@ -23,5 +23,8 @@
     <ClCompile Include="15824-너 봄에는 캡사이신이 맛있단다.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10830-행렬 제곱.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
