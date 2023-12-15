@@ -36,6 +36,9 @@
     <ClCompile Include="2268-수들의 합 7.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2243-사탕상자.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
