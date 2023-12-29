@@ -41,5 +41,8 @@
     <ClCompile Include="1019-책 페이지.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2877-4와 7.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
