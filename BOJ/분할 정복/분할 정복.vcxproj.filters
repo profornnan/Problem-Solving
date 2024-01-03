@@ -30,6 +30,9 @@
     <ClCompile Include="2447-별 찍기 - 10.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1030-프렉탈 평면.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
