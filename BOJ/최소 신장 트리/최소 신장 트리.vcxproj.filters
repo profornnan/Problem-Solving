@@ -35,5 +35,8 @@
     <ClCompile Include="6497-전력난.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="16398-행성 연결.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
