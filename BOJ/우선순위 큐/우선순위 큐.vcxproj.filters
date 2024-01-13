@@ -27,6 +27,9 @@
     <ClCompile Include="1781-컵라면.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14464-소가 길을 건너간 이유 4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
