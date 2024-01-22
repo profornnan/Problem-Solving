@@ -89,6 +89,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "스위핑", "스위핑\스�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "선분 교차 판정", "선분 교차 판정\선분 교차 판정.vcxproj", "{C86CA390-0A8C-4031-BBC9-03B4E5623212}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "가장 긴 증가하는 부분 수열 o(n log n)", "가장 긴 증가하는 부분 수열 o(n log n)\가장 긴 증가하는 부분 수열 o(n log n).vcxproj", "{FCCBCAC2-F1AD-4106-B443-3326A62502FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -441,6 +443,14 @@ Global
 		{C86CA390-0A8C-4031-BBC9-03B4E5623212}.Release|x64.Build.0 = Release|x64
 		{C86CA390-0A8C-4031-BBC9-03B4E5623212}.Release|x86.ActiveCfg = Release|Win32
 		{C86CA390-0A8C-4031-BBC9-03B4E5623212}.Release|x86.Build.0 = Release|Win32
+		{FCCBCAC2-F1AD-4106-B443-3326A62502FB}.Debug|x64.ActiveCfg = Debug|x64
+		{FCCBCAC2-F1AD-4106-B443-3326A62502FB}.Debug|x64.Build.0 = Debug|x64
+		{FCCBCAC2-F1AD-4106-B443-3326A62502FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{FCCBCAC2-F1AD-4106-B443-3326A62502FB}.Debug|x86.Build.0 = Debug|Win32
+		{FCCBCAC2-F1AD-4106-B443-3326A62502FB}.Release|x64.ActiveCfg = Release|x64
+		{FCCBCAC2-F1AD-4106-B443-3326A62502FB}.Release|x64.Build.0 = Release|x64
+		{FCCBCAC2-F1AD-4106-B443-3326A62502FB}.Release|x86.ActiveCfg = Release|Win32
+		{FCCBCAC2-F1AD-4106-B443-3326A62502FB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
