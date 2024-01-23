@@ -1,17 +1,5 @@
 4
-hello
-hell
-heaven
-goodbye
-3
-hi
-he
-h
-7
-structure
-structures
-ride
-riders
-stress
-solstice
-ridiculous
+2 KIWI BANANA
+2 KIWI APPLE
+2 APPLE APPLE
+3 APPLE BANANA KIWI
