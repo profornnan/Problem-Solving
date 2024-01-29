@@ -156,6 +156,9 @@
     <ClCompile Include="1301-비즈 공예.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2228-구간 나누기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
