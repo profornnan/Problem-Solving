@@ -162,6 +162,9 @@
     <ClCompile Include="1176-섞기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="4781-사탕 가게.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
