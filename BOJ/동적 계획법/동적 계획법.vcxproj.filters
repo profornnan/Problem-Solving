@@ -165,6 +165,9 @@
     <ClCompile Include="4781-사탕 가게.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2294-동전 2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
