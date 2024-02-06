@@ -91,6 +91,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "선분 교차 판정", "선
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "가장 긴 증가하는 부분 수열 o(n log n)", "가장 긴 증가하는 부분 수열 o(n log n)\가장 긴 증가하는 부분 수열 o(n log n).vcxproj", "{FCCBCAC2-F1AD-4106-B443-3326A62502FB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kmp", "kmp\kmp.vcxproj", "{0CFC8FA5-57D2-4DB3-9547-32724A10BDF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -451,6 +453,14 @@ Global
 		{FCCBCAC2-F1AD-4106-B443-3326A62502FB}.Release|x64.Build.0 = Release|x64
 		{FCCBCAC2-F1AD-4106-B443-3326A62502FB}.Release|x86.ActiveCfg = Release|Win32
 		{FCCBCAC2-F1AD-4106-B443-3326A62502FB}.Release|x86.Build.0 = Release|Win32
+		{0CFC8FA5-57D2-4DB3-9547-32724A10BDF8}.Debug|x64.ActiveCfg = Debug|x64
+		{0CFC8FA5-57D2-4DB3-9547-32724A10BDF8}.Debug|x64.Build.0 = Debug|x64
+		{0CFC8FA5-57D2-4DB3-9547-32724A10BDF8}.Debug|x86.ActiveCfg = Debug|Win32
+		{0CFC8FA5-57D2-4DB3-9547-32724A10BDF8}.Debug|x86.Build.0 = Debug|Win32
+		{0CFC8FA5-57D2-4DB3-9547-32724A10BDF8}.Release|x64.ActiveCfg = Release|x64
+		{0CFC8FA5-57D2-4DB3-9547-32724A10BDF8}.Release|x64.Build.0 = Release|x64
+		{0CFC8FA5-57D2-4DB3-9547-32724A10BDF8}.Release|x86.ActiveCfg = Release|Win32
+		{0CFC8FA5-57D2-4DB3-9547-32724A10BDF8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
