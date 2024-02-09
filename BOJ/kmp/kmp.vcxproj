@@ -139,7 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1701-Cubeditor.cpp" />
+    <ClCompile Include="1701-Cubeditor.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="1786-찾기.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />

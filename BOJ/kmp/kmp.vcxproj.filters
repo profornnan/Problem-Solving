@@ -18,6 +18,9 @@
     <ClCompile Include="1701-Cubeditor.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1786-찾기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
