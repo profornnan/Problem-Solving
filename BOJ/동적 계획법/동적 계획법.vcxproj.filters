@@ -168,6 +168,9 @@
     <ClCompile Include="2294-동전 2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1099-알 수 없는 문장.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
