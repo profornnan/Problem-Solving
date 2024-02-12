@@ -171,6 +171,9 @@
     <ClCompile Include="1099-알 수 없는 문장.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5582-공통 부분 문자열.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
