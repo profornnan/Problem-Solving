@@ -142,7 +142,10 @@
     <ClCompile Include="12015-가장 긴 증가하는 부분 수열 2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="14003-가장 긴 증가하는 부분 수열 5.cpp" />
+    <ClCompile Include="14003-가장 긴 증가하는 부분 수열 5.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="2568-전깃줄 - 2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
