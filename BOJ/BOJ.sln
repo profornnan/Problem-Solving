@@ -93,6 +93,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "가장 긴 증가하는 부
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kmp", "kmp\kmp.vcxproj", "{0CFC8FA5-57D2-4DB3-9547-32724A10BDF8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "볼록 껍질", "볼록 껍질\볼록 껍질.vcxproj", "{859A20ED-F414-4878-A40E-E4993819EBFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -461,6 +463,14 @@ Global
 		{0CFC8FA5-57D2-4DB3-9547-32724A10BDF8}.Release|x64.Build.0 = Release|x64
 		{0CFC8FA5-57D2-4DB3-9547-32724A10BDF8}.Release|x86.ActiveCfg = Release|Win32
 		{0CFC8FA5-57D2-4DB3-9547-32724A10BDF8}.Release|x86.Build.0 = Release|Win32
+		{859A20ED-F414-4878-A40E-E4993819EBFF}.Debug|x64.ActiveCfg = Debug|x64
+		{859A20ED-F414-4878-A40E-E4993819EBFF}.Debug|x64.Build.0 = Debug|x64
+		{859A20ED-F414-4878-A40E-E4993819EBFF}.Debug|x86.ActiveCfg = Debug|Win32
+		{859A20ED-F414-4878-A40E-E4993819EBFF}.Debug|x86.Build.0 = Debug|Win32
+		{859A20ED-F414-4878-A40E-E4993819EBFF}.Release|x64.ActiveCfg = Release|x64
+		{859A20ED-F414-4878-A40E-E4993819EBFF}.Release|x64.Build.0 = Release|x64
+		{859A20ED-F414-4878-A40E-E4993819EBFF}.Release|x86.ActiveCfg = Release|Win32
+		{859A20ED-F414-4878-A40E-E4993819EBFF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
