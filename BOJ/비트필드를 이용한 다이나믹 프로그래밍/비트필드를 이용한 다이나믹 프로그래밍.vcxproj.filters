@@ -26,5 +26,8 @@
     <ClCompile Include="1029-그림 교환.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1086-박성원.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
