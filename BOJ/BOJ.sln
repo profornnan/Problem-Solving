@@ -95,6 +95,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kmp", "kmp\kmp.vcxproj", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "볼록 껍질", "볼록 껍질\볼록 껍질.vcxproj", "{859A20ED-F414-4878-A40E-E4993819EBFF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "모듈로 곱셈 역원", "모듈로 곱셈 역원\모듈로 곱셈 역원.vcxproj", "{43C68526-B9FE-4099-92F8-AB33D5C5A096}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -471,6 +473,14 @@ Global
 		{859A20ED-F414-4878-A40E-E4993819EBFF}.Release|x64.Build.0 = Release|x64
 		{859A20ED-F414-4878-A40E-E4993819EBFF}.Release|x86.ActiveCfg = Release|Win32
 		{859A20ED-F414-4878-A40E-E4993819EBFF}.Release|x86.Build.0 = Release|Win32
+		{43C68526-B9FE-4099-92F8-AB33D5C5A096}.Debug|x64.ActiveCfg = Debug|x64
+		{43C68526-B9FE-4099-92F8-AB33D5C5A096}.Debug|x64.Build.0 = Debug|x64
+		{43C68526-B9FE-4099-92F8-AB33D5C5A096}.Debug|x86.ActiveCfg = Debug|Win32
+		{43C68526-B9FE-4099-92F8-AB33D5C5A096}.Debug|x86.Build.0 = Debug|Win32
+		{43C68526-B9FE-4099-92F8-AB33D5C5A096}.Release|x64.ActiveCfg = Release|x64
+		{43C68526-B9FE-4099-92F8-AB33D5C5A096}.Release|x64.Build.0 = Release|x64
+		{43C68526-B9FE-4099-92F8-AB33D5C5A096}.Release|x86.ActiveCfg = Release|Win32
+		{43C68526-B9FE-4099-92F8-AB33D5C5A096}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
