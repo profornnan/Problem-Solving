@@ -26,5 +26,8 @@
     <ClCompile Include="11401-이항 계수 3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="13977-이항 계수와 쿼리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
