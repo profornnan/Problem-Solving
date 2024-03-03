@@ -62,5 +62,8 @@
     <ClCompile Include="2922-즐거운 단어.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1443-망가진 계산기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
