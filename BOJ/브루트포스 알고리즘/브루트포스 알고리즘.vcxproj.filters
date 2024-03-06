@@ -65,5 +65,8 @@
     <ClCompile Include="1443-망가진 계산기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1941-소문난 칠공주.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
