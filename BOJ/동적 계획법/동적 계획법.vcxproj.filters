@@ -189,6 +189,9 @@
     <ClCompile Include="1351-무한 수열.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="7476-최대 공통 증가 수열.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
