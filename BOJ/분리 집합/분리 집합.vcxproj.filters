@@ -53,5 +53,8 @@
     <ClCompile Include="4803-트리.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3830-교수님은 기다리지 않는다.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
