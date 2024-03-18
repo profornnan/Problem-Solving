@@ -1,0 +1,112 @@
+#include <iostream>
+#include <algorithm>
+#include <vector>
+#include <queue>
+using namespace std;
+
+constexpr int INF = 21e8;
+
+struct Edge {
+	int to;
+	int cost;
+	bool operator<(const Edge& next) const {
+		return cost > next.cost;
+	}
+};
+
+int N, M;
+vector<vector<Edge>> adj;
+vector<pair<int, int>> pathEdges;
+
+int findPathEdges() {
+	vector<int> dist(N + 1, INF);
+	priority_queue<Edge> pq;
+	vector<int> path(N + 1);
+
+	dist[1] = 0;
+	pq.push({ 1, 0 });
+
+	while (!pq.empty()) {
+		Edge now = pq.top();
+		pq.pop();
+
+		if (dist[now.to] < now.cost)
+			continue;
+
+		for (const auto& next : adj[now.to]) {
+			int ncost = dist[now.to] + next.cost;
+
+			if (dist[next.to] <= ncost)
+				continue;
+
+			dist[next.to] = ncost;
+			pq.push({ next.to, ncost });
+			path[next.to] = now.to;
+		}
+	}
+
+	int now = N;
+
+	while (path[now]) {
+		pathEdges.push_back({ now, path[now] });
+		now = path[now];
+	}
+
+	return dist[N];
+}
+
+int destroyEdge(int u, int v) {
+	vector<int> dist(N + 1, INF);
+	priority_queue<Edge> pq;
+
+	dist[1] = 0;
+	pq.push({ 1, 0 });
+
+	while (!pq.empty()) {
+		Edge now = pq.top();
+		pq.pop();
+
+		if (dist[now.to] < now.cost)
+			continue;
+
+		for (const auto& next : adj[now.to]) {
+			int ncost = dist[now.to] + next.cost;
+
+			if (dist[next.to] <= ncost)
+				continue;
+
+			if ((u == now.to && v == next.to) || (u == next.to && v == now.to))
+				continue;
+
+			dist[next.to] = ncost;
+			pq.push({ next.to, ncost });
+		}
+	}
+
+	return dist[N];
+}
+
+int main(void) {
+	cin.tie(nullptr)->sync_with_stdio(false);
+
+	cin >> N >> M;
+
+	adj.assign(N + 1, {});
+
+	for (int i = 0; i < M; ++i) {
+		int u, v, c;
+		cin >> u >> v >> c;
+		adj[u].push_back({ v, c });
+		adj[v].push_back({ u, c });
+	}
+
+	int shortestDist = findPathEdges();
+	int destroyDist = shortestDist;
+
+	for (const auto& [u, v] : pathEdges)
+		destroyDist = max(destroyDist, destroyEdge(u, v));
+
+	cout << (destroyDist == INF ? -1 : destroyDist - shortestDist) << '\n';
+
+	return 0;
+}
