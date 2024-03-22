@@ -1,7 +1,5 @@
-6 3
-CYNTHIA
-LLOYD
-STEVIE
-KEVIN
-MALCOLM
-DABNEY
+2
+superaquatornado
+2
+abcdefghijklmnopqrstuvwxyz
+5

@@ -142,7 +142,10 @@
     <ClCompile Include="16440-제이크와 케이크.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="3078-좋은 친구.cpp" />
+    <ClCompile Include="20437-문자열 게임 2.cpp" />
+    <ClCompile Include="3078-좋은 친구.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
