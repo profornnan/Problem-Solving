@@ -77,5 +77,8 @@
     <ClCompile Include="1445-일요일 아침의 데이트.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2423-전구를 켜라.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
