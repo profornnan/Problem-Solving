@@ -117,6 +117,9 @@
     <ClCompile Include="17244-아맞다우산.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14923-미로 탈출.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
