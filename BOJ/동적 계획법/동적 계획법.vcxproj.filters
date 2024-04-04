@@ -204,6 +204,9 @@
     <ClCompile Include="11066-파일 합치기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14863-서울에서 경산까지.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
