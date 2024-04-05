@@ -120,6 +120,9 @@
     <ClCompile Include="14923-미로 탈출.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14466-소가 길을 건너간 이유 6.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
