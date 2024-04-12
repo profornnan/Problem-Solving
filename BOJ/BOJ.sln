@@ -97,6 +97,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "볼록 껍질", "볼록 껍
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "모듈로 곱셈 역원", "모듈로 곱셈 역원\모듈로 곱셈 역원.vcxproj", "{43C68526-B9FE-4099-92F8-AB33D5C5A096}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "누적 합", "누적 합\누적 합.vcxproj", "{74CF44D6-41B9-486A-96A3-836680395865}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -481,6 +483,14 @@ Global
 		{43C68526-B9FE-4099-92F8-AB33D5C5A096}.Release|x64.Build.0 = Release|x64
 		{43C68526-B9FE-4099-92F8-AB33D5C5A096}.Release|x86.ActiveCfg = Release|Win32
 		{43C68526-B9FE-4099-92F8-AB33D5C5A096}.Release|x86.Build.0 = Release|Win32
+		{74CF44D6-41B9-486A-96A3-836680395865}.Debug|x64.ActiveCfg = Debug|x64
+		{74CF44D6-41B9-486A-96A3-836680395865}.Debug|x64.Build.0 = Debug|x64
+		{74CF44D6-41B9-486A-96A3-836680395865}.Debug|x86.ActiveCfg = Debug|Win32
+		{74CF44D6-41B9-486A-96A3-836680395865}.Debug|x86.Build.0 = Debug|Win32
+		{74CF44D6-41B9-486A-96A3-836680395865}.Release|x64.ActiveCfg = Release|x64
+		{74CF44D6-41B9-486A-96A3-836680395865}.Release|x64.Build.0 = Release|x64
+		{74CF44D6-41B9-486A-96A3-836680395865}.Release|x86.ActiveCfg = Release|Win32
+		{74CF44D6-41B9-486A-96A3-836680395865}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
