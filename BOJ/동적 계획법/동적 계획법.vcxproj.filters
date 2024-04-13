@@ -210,6 +210,9 @@
     <ClCompile Include="2306-유전자.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1344-축구.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
