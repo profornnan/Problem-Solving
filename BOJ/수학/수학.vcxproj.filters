@@ -47,5 +47,8 @@
     <ClCompile Include="1669-멍멍이 쓰다듬기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1052-물병.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
