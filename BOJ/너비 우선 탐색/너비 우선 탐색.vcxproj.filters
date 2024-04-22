@@ -123,6 +123,9 @@
     <ClCompile Include="14466-소가 길을 건너간 이유 6.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2021-최소 환승 경로.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
