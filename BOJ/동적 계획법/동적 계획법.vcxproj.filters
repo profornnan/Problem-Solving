@@ -219,6 +219,9 @@
     <ClCompile Include="1757-달려달려.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2616-소형기관차.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
