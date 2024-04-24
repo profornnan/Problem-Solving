@@ -222,6 +222,9 @@
     <ClCompile Include="2616-소형기관차.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1633-최고의 팀 만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
