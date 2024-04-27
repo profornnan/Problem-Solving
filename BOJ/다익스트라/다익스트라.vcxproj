@@ -168,7 +168,10 @@
     <ClCompile Include="1445-일요일 아침의 데이트.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="14461-소가 길을 건너간 이유 7.cpp" />
+    <ClCompile Include="14461-소가 길을 건너간 이유 7.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="1486-등산.cpp" />
     <ClCompile Include="1504-특정한 최단 경로.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
