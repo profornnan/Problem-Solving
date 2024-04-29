@@ -59,5 +59,8 @@
     <ClCompile Include="1939-중량제한.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1561-놀이 공원.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
