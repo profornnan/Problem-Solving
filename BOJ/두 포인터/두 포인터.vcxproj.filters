@@ -56,5 +56,8 @@
     <ClCompile Include="3649-로봇 프로젝트.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5926-Cow Lineup.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
