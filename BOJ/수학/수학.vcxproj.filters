@@ -50,5 +50,8 @@
     <ClCompile Include="1052-물병.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1323-숫자 연결하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
