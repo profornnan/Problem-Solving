@@ -26,5 +26,8 @@
     <ClCompile Include="1013-Contact.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1148-단어 만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
