@@ -59,5 +59,8 @@
     <ClCompile Include="5926-Cow Lineup.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="13144-List of Unique Numbers.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
