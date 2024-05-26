@@ -39,6 +39,9 @@
     <ClCompile Include="2014-소수의 곱.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9869-Milk Scheduling.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
