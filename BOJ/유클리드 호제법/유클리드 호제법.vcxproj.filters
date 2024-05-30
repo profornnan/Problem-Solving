@@ -23,5 +23,8 @@
     <ClCompile Include="14476-최대공약수 하나 빼기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1033-칵테일.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
