@@ -77,5 +77,8 @@
     <ClCompile Include="5520-The Clocks.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1035-조각 움직이기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
