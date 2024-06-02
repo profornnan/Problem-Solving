@@ -243,6 +243,9 @@
     <ClCompile Include="2157-여행.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2602-돌다리 건너기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
