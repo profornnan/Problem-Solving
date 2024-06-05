@@ -249,6 +249,9 @@
     <ClCompile Include="5934-Visiting Cows.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14699-관악산 등산.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
