@@ -252,6 +252,9 @@
     <ClCompile Include="14699-관악산 등산.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1354-무한 수열 2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
