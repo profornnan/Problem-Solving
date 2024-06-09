@@ -44,5 +44,8 @@
     <ClCompile Include="2504-괄호의 값.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="17298-오큰수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
