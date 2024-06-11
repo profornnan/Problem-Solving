@@ -99,6 +99,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "모듈로 곱셈 역원", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "누적 합", "누적 합\누적 합.vcxproj", "{74CF44D6-41B9-486A-96A3-836680395865}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "이분 그래프", "이분 그래프\이분 그래프.vcxproj", "{87C64FF8-EF39-4EBC-9B1F-40F3A8C234DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -491,6 +493,14 @@ Global
 		{74CF44D6-41B9-486A-96A3-836680395865}.Release|x64.Build.0 = Release|x64
 		{74CF44D6-41B9-486A-96A3-836680395865}.Release|x86.ActiveCfg = Release|Win32
 		{74CF44D6-41B9-486A-96A3-836680395865}.Release|x86.Build.0 = Release|Win32
+		{87C64FF8-EF39-4EBC-9B1F-40F3A8C234DD}.Debug|x64.ActiveCfg = Debug|x64
+		{87C64FF8-EF39-4EBC-9B1F-40F3A8C234DD}.Debug|x64.Build.0 = Debug|x64
+		{87C64FF8-EF39-4EBC-9B1F-40F3A8C234DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{87C64FF8-EF39-4EBC-9B1F-40F3A8C234DD}.Debug|x86.Build.0 = Debug|Win32
+		{87C64FF8-EF39-4EBC-9B1F-40F3A8C234DD}.Release|x64.ActiveCfg = Release|x64
+		{87C64FF8-EF39-4EBC-9B1F-40F3A8C234DD}.Release|x64.Build.0 = Release|x64
+		{87C64FF8-EF39-4EBC-9B1F-40F3A8C234DD}.Release|x86.ActiveCfg = Release|Win32
+		{87C64FF8-EF39-4EBC-9B1F-40F3A8C234DD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
