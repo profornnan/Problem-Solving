@@ -102,6 +102,9 @@
     <ClCompile Include="8980-택배.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2879-코딩은 예쁘게.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
