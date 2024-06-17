@@ -105,6 +105,9 @@
     <ClCompile Include="2879-코딩은 예쁘게.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="13164-행복 유치원.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
