@@ -101,6 +101,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "누적 합", "누적 합\�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "이분 그래프", "이분 그래프\이분 그래프.vcxproj", "{87C64FF8-EF39-4EBC-9B1F-40F3A8C234DD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "백트래킹", "백트래킹\백트래킹.vcxproj", "{65CC67D0-1DC5-4879-AD03-579084D1420E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -501,6 +503,14 @@ Global
 		{87C64FF8-EF39-4EBC-9B1F-40F3A8C234DD}.Release|x64.Build.0 = Release|x64
 		{87C64FF8-EF39-4EBC-9B1F-40F3A8C234DD}.Release|x86.ActiveCfg = Release|Win32
 		{87C64FF8-EF39-4EBC-9B1F-40F3A8C234DD}.Release|x86.Build.0 = Release|Win32
+		{65CC67D0-1DC5-4879-AD03-579084D1420E}.Debug|x64.ActiveCfg = Debug|x64
+		{65CC67D0-1DC5-4879-AD03-579084D1420E}.Debug|x64.Build.0 = Debug|x64
+		{65CC67D0-1DC5-4879-AD03-579084D1420E}.Debug|x86.ActiveCfg = Debug|Win32
+		{65CC67D0-1DC5-4879-AD03-579084D1420E}.Debug|x86.Build.0 = Debug|Win32
+		{65CC67D0-1DC5-4879-AD03-579084D1420E}.Release|x64.ActiveCfg = Release|x64
+		{65CC67D0-1DC5-4879-AD03-579084D1420E}.Release|x64.Build.0 = Release|x64
+		{65CC67D0-1DC5-4879-AD03-579084D1420E}.Release|x86.ActiveCfg = Release|Win32
+		{65CC67D0-1DC5-4879-AD03-579084D1420E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
