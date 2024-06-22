@@ -261,6 +261,9 @@
     <ClCompile Include="2073-수도배관공사.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1823-수확.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
