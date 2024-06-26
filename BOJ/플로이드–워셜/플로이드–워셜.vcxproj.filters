@@ -53,5 +53,8 @@
     <ClCompile Include="11562-백양로 브레이크.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="6156-Cow Contest.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
