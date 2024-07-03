@@ -1,3 +1,4 @@
-4 11
-cAda
-AbrAcadAbRa
+3 3
+1
+5
+3
