@@ -109,6 +109,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-sat", "2-sat\2-sat.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "덱을 이용한 구간 최댓값 트릭", "덱을 이용한 구간 최댓값 트릭\덱을 이용한 구간 최댓값 트릭.vcxproj", "{DC7F0AE5-5905-42E7-B6F2-226E49BF9D4D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "파싱", "파싱\파싱.vcxproj", "{5AB3D001-985E-4603-94D8-3F5ECE89F3F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -541,6 +543,14 @@ Global
 		{DC7F0AE5-5905-42E7-B6F2-226E49BF9D4D}.Release|x64.Build.0 = Release|x64
 		{DC7F0AE5-5905-42E7-B6F2-226E49BF9D4D}.Release|x86.ActiveCfg = Release|Win32
 		{DC7F0AE5-5905-42E7-B6F2-226E49BF9D4D}.Release|x86.Build.0 = Release|Win32
+		{5AB3D001-985E-4603-94D8-3F5ECE89F3F0}.Debug|x64.ActiveCfg = Debug|x64
+		{5AB3D001-985E-4603-94D8-3F5ECE89F3F0}.Debug|x64.Build.0 = Debug|x64
+		{5AB3D001-985E-4603-94D8-3F5ECE89F3F0}.Debug|x86.ActiveCfg = Debug|Win32
+		{5AB3D001-985E-4603-94D8-3F5ECE89F3F0}.Debug|x86.Build.0 = Debug|Win32
+		{5AB3D001-985E-4603-94D8-3F5ECE89F3F0}.Release|x64.ActiveCfg = Release|x64
+		{5AB3D001-985E-4603-94D8-3F5ECE89F3F0}.Release|x64.Build.0 = Release|x64
+		{5AB3D001-985E-4603-94D8-3F5ECE89F3F0}.Release|x86.ActiveCfg = Release|Win32
+		{5AB3D001-985E-4603-94D8-3F5ECE89F3F0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
