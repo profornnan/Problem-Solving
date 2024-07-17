@@ -276,6 +276,9 @@
     <ClCompile Include="1415-사탕.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="26156-나락도 락이다.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
