@@ -42,6 +42,9 @@
     <ClCompile Include="9869-Milk Scheduling.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="20956-아이스크림 도둑 지호.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
