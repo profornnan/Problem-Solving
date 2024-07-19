@@ -279,6 +279,9 @@
     <ClCompile Include="26156-나락도 락이다.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="23976-문자열 나누기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
