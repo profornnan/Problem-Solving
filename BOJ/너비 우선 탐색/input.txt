@@ -1,1 +1,5 @@
-8 5 6
+4
+Baba is Rabbit
+Rabbit is Cat
+Cat is Wall
+Wall is Unist
