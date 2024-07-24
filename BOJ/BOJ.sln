@@ -113,6 +113,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "파싱", "파싱\파싱.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "비트마스킹", "비트마스킹\비트마스킹.vcxproj", "{CF6403CB-1127-41F7-95DD-5DD2686B2952}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "애드 혹", "애드 혹\애드 혹.vcxproj", "{5780D5E5-3B4E-476C-B865-069537A37F5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -561,6 +563,14 @@ Global
 		{CF6403CB-1127-41F7-95DD-5DD2686B2952}.Release|x64.Build.0 = Release|x64
 		{CF6403CB-1127-41F7-95DD-5DD2686B2952}.Release|x86.ActiveCfg = Release|Win32
 		{CF6403CB-1127-41F7-95DD-5DD2686B2952}.Release|x86.Build.0 = Release|Win32
+		{5780D5E5-3B4E-476C-B865-069537A37F5A}.Debug|x64.ActiveCfg = Debug|x64
+		{5780D5E5-3B4E-476C-B865-069537A37F5A}.Debug|x64.Build.0 = Debug|x64
+		{5780D5E5-3B4E-476C-B865-069537A37F5A}.Debug|x86.ActiveCfg = Debug|Win32
+		{5780D5E5-3B4E-476C-B865-069537A37F5A}.Debug|x86.Build.0 = Debug|Win32
+		{5780D5E5-3B4E-476C-B865-069537A37F5A}.Release|x64.ActiveCfg = Release|x64
+		{5780D5E5-3B4E-476C-B865-069537A37F5A}.Release|x64.Build.0 = Release|x64
+		{5780D5E5-3B4E-476C-B865-069537A37F5A}.Release|x86.ActiveCfg = Release|Win32
+		{5780D5E5-3B4E-476C-B865-069537A37F5A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
