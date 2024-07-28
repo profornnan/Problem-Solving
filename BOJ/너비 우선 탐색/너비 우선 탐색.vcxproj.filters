@@ -141,6 +141,9 @@
     <ClCompile Include="17839-Baba is Rabbit.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="23352-방탈출.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
