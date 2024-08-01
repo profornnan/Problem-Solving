@@ -115,6 +115,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "비트마스킹", "비트�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "애드 혹", "애드 혹\애드 혹.vcxproj", "{5780D5E5-3B4E-476C-B865-069537A37F5A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "해시를 사용한 집합과 맵", "해시를 사용한 집합과 맵\해시를 사용한 집합과 맵.vcxproj", "{F3FAA226-0532-487B-A59B-99515EFDFCDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -571,6 +573,14 @@ Global
 		{5780D5E5-3B4E-476C-B865-069537A37F5A}.Release|x64.Build.0 = Release|x64
 		{5780D5E5-3B4E-476C-B865-069537A37F5A}.Release|x86.ActiveCfg = Release|Win32
 		{5780D5E5-3B4E-476C-B865-069537A37F5A}.Release|x86.Build.0 = Release|Win32
+		{F3FAA226-0532-487B-A59B-99515EFDFCDF}.Debug|x64.ActiveCfg = Debug|x64
+		{F3FAA226-0532-487B-A59B-99515EFDFCDF}.Debug|x64.Build.0 = Debug|x64
+		{F3FAA226-0532-487B-A59B-99515EFDFCDF}.Debug|x86.ActiveCfg = Debug|Win32
+		{F3FAA226-0532-487B-A59B-99515EFDFCDF}.Debug|x86.Build.0 = Debug|Win32
+		{F3FAA226-0532-487B-A59B-99515EFDFCDF}.Release|x64.ActiveCfg = Release|x64
+		{F3FAA226-0532-487B-A59B-99515EFDFCDF}.Release|x64.Build.0 = Release|x64
+		{F3FAA226-0532-487B-A59B-99515EFDFCDF}.Release|x86.ActiveCfg = Release|Win32
+		{F3FAA226-0532-487B-A59B-99515EFDFCDF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
