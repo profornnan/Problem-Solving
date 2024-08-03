@@ -285,6 +285,9 @@
     <ClCompile Include="4430-Is Bigger Smarter.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="16888-루트 게임.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
