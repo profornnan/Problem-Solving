@@ -26,5 +26,8 @@
     <ClCompile Include="1184-귀농.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10986-나머지 합.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
