@@ -57,6 +57,9 @@
     <ClCompile Include="3653-영화 수집.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="6213-Balanced Lineup.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
