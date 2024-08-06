@@ -6,7 +6,7 @@ constexpr int MAX_BASE = 262'144;
 
 int base;
 int id2idx[MAX_N + 1];
-int tree[MAX_BASE * 2 + 1];
+int tree[MAX_BASE * 2];
 
 void init(const int N, const int M) {
 	base = 1;
