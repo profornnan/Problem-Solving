@@ -3,7 +3,7 @@
 using namespace std;
 
 constexpr int INF = 21e8;
-constexpr int MAX_BASE = 131'072;
+constexpr int MAX_BASE = 65'536;
 
 struct Node {
 	int minNum;
@@ -11,7 +11,7 @@ struct Node {
 };
 
 int base;
-Node tree[MAX_BASE];
+Node tree[MAX_BASE * 2];
 
 void init(const int N) {
 	base = 1;
