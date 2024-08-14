@@ -29,5 +29,8 @@
     <ClCompile Include="10597-순열장난.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="8894-Pattern Lock.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
