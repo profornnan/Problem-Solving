@@ -32,5 +32,8 @@
     <ClCompile Include="8894-Pattern Lock.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3967-매직 스타.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
