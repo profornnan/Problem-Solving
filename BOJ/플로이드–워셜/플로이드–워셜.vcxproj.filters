@@ -56,5 +56,8 @@
     <ClCompile Include="6156-Cow Contest.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="11265-끝나지 않는 파티.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
