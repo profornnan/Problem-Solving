@@ -142,10 +142,13 @@
     <Text Include="input.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="14254-비밀번호 변경.cpp" />
     <ClCompile Include="1636-한번 열면 멈출 수 없어.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="5527-전구 장식.cpp" />
+    <ClCompile Include="5527-전구 장식.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
