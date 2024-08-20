@@ -1,53 +1,45 @@
 #include <iostream>
-#include <deque>
-#define sws ios::sync_with_stdio(false), cin.tie(NULL);
+#include <algorithm>
 using namespace std;
 
-int n, d, k, c;
-int sushi[3000000];
-int sushi_type[3000 + 1];
-int answer;
-deque<int> dq;
+constexpr int MAX_N = 3'000'000;
+constexpr int MAX_D = 3'000;
 
-int main(void)
-{
-	sws;
-	freopen("input.txt", "r", stdin);
-	cin >> n >> d >> k >> c;
+int N, D, K, C;
+int dishes[MAX_N];
+int dishCnts[MAX_D + 1];
 
-	for (int i = 0; i < n; i++)
-		cin >> sushi[i];
+int main(void) {
+	cin.tie(nullptr)->sync_with_stdio(false);
 
-	int cnt = 0;
+	cin >> N >> D >> K >> C;
 
-	for (int i = 0; i < k; i++) {
-		dq.push_back(sushi[i]);
+	for (int i = 0; i < N; ++i)
+		cin >> dishes[i];
 
-		if (!sushi_type[sushi[i]]++)
-			cnt++;
+	int left = 0;
+	int right = K - 1;
+	int typeCnt = 0;
+	int maxTypeCnt = 0;
 
-		answer = answer > cnt ? answer : cnt;
+	for (int i = 0; i < right; ++i)
+		if (!dishCnts[dishes[i]]++)
+			++typeCnt;
+
+	for (int i = 0; i < N; ++i) {
+		if (!dishCnts[dishes[right]]++)
+			++typeCnt;
+
+		maxTypeCnt = max(maxTypeCnt, typeCnt + !dishCnts[C]);
+
+		if (!(--dishCnts[dishes[left]]))
+			--typeCnt;
+
+		left = (left + 1) % N;
+		right = (right + 1) % N;
 	}
 
-	for (int i = 0; i < n - 1; i++) {
-
-		dq.pop_front();
-
-		if (!(--sushi_type[sushi[i]]))
-			cnt--;
-
-		dq.push_back(sushi[(i + k) % n]);
-
-		if (!sushi_type[sushi[(i + k) % n]]++)
-			cnt++;
-		
-		if (sushi_type[c])
-			answer = answer > cnt ? answer : cnt;
-		else
-			answer = answer > cnt + 1 ? answer : cnt + 1;
-	}
-
-	cout << answer << '\n';
+	cout << maxTypeCnt << '\n';
 
 	return 0;
 }
