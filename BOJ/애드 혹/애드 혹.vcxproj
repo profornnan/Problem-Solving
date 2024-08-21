@@ -142,7 +142,10 @@
     <Text Include="input.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="14254-비밀번호 변경.cpp" />
+    <ClCompile Include="14254-비밀번호 변경.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="15927-회문은 회문아니야!!.cpp" />
     <ClCompile Include="1636-한번 열면 멈출 수 없어.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

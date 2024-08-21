@@ -29,5 +29,8 @@
     <ClCompile Include="14254-비밀번호 변경.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="15927-회문은 회문아니야!!.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
