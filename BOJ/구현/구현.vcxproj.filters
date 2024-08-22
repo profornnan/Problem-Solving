@@ -65,5 +65,8 @@
     <ClCompile Include="2239-스도쿠.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="4600-정글의 법칙.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
