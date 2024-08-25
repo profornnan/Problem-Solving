@@ -114,6 +114,9 @@
     <ClCompile Include="21926-Three-Axis Views.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="18082-Canvas Line.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
