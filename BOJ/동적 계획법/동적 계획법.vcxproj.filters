@@ -297,6 +297,9 @@
     <ClCompile Include="12429-생존자 (Small).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10564-팔굽혀펴기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
