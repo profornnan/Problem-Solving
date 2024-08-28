@@ -23,5 +23,8 @@
     <ClCompile Include="12025-장난꾸러기 영훈.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1322-X와 K.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
