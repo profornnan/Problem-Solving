@@ -107,5 +107,8 @@
     <ClCompile Include="31791-바이러스 공격.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2211-네트워크 복구.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
