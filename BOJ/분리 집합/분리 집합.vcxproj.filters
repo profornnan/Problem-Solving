@@ -62,5 +62,8 @@
     <ClCompile Include="5846-Tractor.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1765-닭싸움 팀 정하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
