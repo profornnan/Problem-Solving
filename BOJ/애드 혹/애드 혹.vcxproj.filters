@@ -32,5 +32,8 @@
     <ClCompile Include="15927-회문은 회문아니야!!.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14370-전화번호 수수께끼 (Large).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
