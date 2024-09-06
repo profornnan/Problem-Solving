@@ -21,7 +21,7 @@ int main(void) {
 
 	sort(subs, subs + N - 1);
 
-	long long ans = K;
+	int ans = K;
 
 	for (int i = 0; i < N - K; ++i)
 		ans += subs[i];
