@@ -306,6 +306,9 @@
     <ClCompile Include="19847-여우 신탁.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1988-낮잠 시간.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
