@@ -153,6 +153,9 @@
     <ClCompile Include="23749-카드컨트롤.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="15024-Import Spaghetti.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
