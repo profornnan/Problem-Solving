@@ -123,6 +123,9 @@
     <ClCompile Include="15553-난로.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14810-Ample Syrup (Large).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
