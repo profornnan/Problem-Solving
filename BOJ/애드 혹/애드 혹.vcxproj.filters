@@ -35,5 +35,8 @@
     <ClCompile Include="14370-전화번호 수수께끼 (Large).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="31790-간단한 문제.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
