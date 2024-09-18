@@ -126,6 +126,9 @@
     <ClCompile Include="14810-Ample Syrup (Large).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14711-타일 뒤집기 (Easy).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
