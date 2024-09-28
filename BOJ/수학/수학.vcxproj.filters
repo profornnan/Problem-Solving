@@ -59,5 +59,8 @@
     <ClCompile Include="13377-Dictionary.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="26092-수학적인 최소 공통 조상.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
