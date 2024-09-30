@@ -318,6 +318,9 @@
     <ClCompile Include="14462-소가 길을 건너간 이유 8.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="25097-Controlled Inflation.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
