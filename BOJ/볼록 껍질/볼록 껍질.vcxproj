@@ -139,7 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1708-볼록 껍질.cpp" />
+    <ClCompile Include="1708-볼록 껍질.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="3679-단순 다각형.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
