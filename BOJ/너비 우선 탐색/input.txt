@@ -1,12 +1,9 @@
-5
-classa classb myfilec execd libe
-classa 2
-import classb
-import myfilec, libe
-classb 1
-import execd
-myfilec 1
-import libe
-execd 1
-import libe, classa
-libe 0
+5 3 5
+1 2
+1 3
+3 4
+1 1
+1 2
+1 4
+4 2
+5 1
