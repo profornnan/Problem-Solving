@@ -2,7 +2,6 @@
 #include <string>
 #include <queue>
 #include <tuple>
-#include <cmath>
 using namespace std;
 
 constexpr int MAX_N = 512;
