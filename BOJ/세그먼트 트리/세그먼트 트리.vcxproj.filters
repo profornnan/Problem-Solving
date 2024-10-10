@@ -60,6 +60,9 @@
     <ClCompile Include="6213-Balanced Lineup.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14428-수열과 쿼리 16.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
