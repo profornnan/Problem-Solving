@@ -71,5 +71,8 @@
     <ClCompile Include="28140-빨강~ 빨강~ 파랑! 파랑! 달콤한 솜사탕!.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="32377-풍선 터트리기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
