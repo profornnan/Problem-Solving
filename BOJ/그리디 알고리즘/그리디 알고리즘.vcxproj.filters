@@ -144,6 +144,9 @@
     <ClCompile Include="2138-전구와 스위치.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="12154-Counter Culture (Large).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
