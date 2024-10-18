@@ -29,5 +29,8 @@
     <ClCompile Include="13977-이항 계수와 쿼리.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="29682-Обратные числа.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
