@@ -333,6 +333,9 @@
     <ClCompile Include="9177-단어 섞기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2624-동전 바꿔주기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

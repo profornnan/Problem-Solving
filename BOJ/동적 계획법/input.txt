@@ -1,4 +1,5 @@
+20
 3
-cat tree tcraete
-cat tree catrtee
-cat tree cttaree
+5 3
+10 2
+1 5
