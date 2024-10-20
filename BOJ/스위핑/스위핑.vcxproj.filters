@@ -38,5 +38,8 @@
     <ClCompile Include="2170-선 긋기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14266-나는 가르친다 스위핑을.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
