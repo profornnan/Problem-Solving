@@ -1,13 +1,1 @@
-2
-2
- W L 
-F W F
- W W 
-4
-   W F L W   
-  W W L W W  
- L F W W W L 
-W W L W L L L
- F W F W W L 
-  F W L W L  
-   F W L W   
+3 7 3 2
