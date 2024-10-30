@@ -13,12 +13,12 @@ int dp[MAX_C][1 << MAX_N];
 
 int char2idx(const char ch) {
 	switch (ch) {
-	case 'A': return 0;
-	case 'E': return 1;
-	case 'I': return 2;
-	case 'O': return 3;
-	case 'U': return 4;
-	default: return -1;
+		case 'A': return 0;
+		case 'E': return 1;
+		case 'I': return 2;
+		case 'O': return 3;
+		case 'U': return 4;
+		default: return -1;
 	}
 }
 
