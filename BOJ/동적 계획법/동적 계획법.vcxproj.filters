@@ -345,6 +345,9 @@
     <ClCompile Include="13295-Nine Packs.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5624-좋은 수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
