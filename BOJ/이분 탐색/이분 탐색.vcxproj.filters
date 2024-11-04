@@ -74,5 +74,8 @@
     <ClCompile Include="32377-풍선 터트리기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3362-수수께끼.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
