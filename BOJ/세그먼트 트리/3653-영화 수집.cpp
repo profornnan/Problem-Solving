@@ -11,7 +11,7 @@ int tree[MAX_BASE * 2];
 void init(const int N, const int M) {
 	base = 1;
 
-	while (base < N + M - 1) base <<= 1;
+	while (base < N + M) base <<= 1;
 
 	for (int i = 0; i < base; ++i)
 		tree[base + i] = i < N;
