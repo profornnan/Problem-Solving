@@ -20,7 +20,7 @@ Node tree[MAX_BASE * 2];
 void init(const int N) {
 	base = 1;
 
-	while (base < N - 1) base <<= 1;
+	while (base < N) base <<= 1;
 
 	for (int i = 0; i < N; ++i) {
 		tree[base + i].minIdx = i + 1;
