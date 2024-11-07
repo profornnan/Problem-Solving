@@ -77,5 +77,8 @@
     <ClCompile Include="2344-거울.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="17779-게리맨더링 2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
