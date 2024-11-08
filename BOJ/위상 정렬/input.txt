@@ -1,5 +1,4 @@
-3 1
-10
-5
-6
-3 2
+3
+Dori > Balin
+Balin > Kili
+Dori > Kili
