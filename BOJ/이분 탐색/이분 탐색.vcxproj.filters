@@ -77,5 +77,8 @@
     <ClCompile Include="3362-수수께끼.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="21556-우물 파기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
