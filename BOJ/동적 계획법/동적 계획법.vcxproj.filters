@@ -357,6 +357,9 @@
     <ClCompile Include="17130-토끼가 정보섬에 올라온 이유.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="13002-Happy Cow.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
