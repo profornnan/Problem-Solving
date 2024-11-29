@@ -29,5 +29,8 @@
     <ClCompile Include="1027-고층 건물.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1169-정사각형 진열.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
