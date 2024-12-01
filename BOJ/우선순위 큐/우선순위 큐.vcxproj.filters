@@ -48,6 +48,9 @@
     <ClCompile Include="23090-난민.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="20666-인물이와 정수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
