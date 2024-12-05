@@ -62,5 +62,8 @@
     <ClCompile Include="2219-보안 시스템 설치.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2278-그래프 복원.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
