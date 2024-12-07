@@ -1,4 +1,7 @@
-3
-Dori > Balin
-Balin > Kili
-Dori > Kili
+6 8
+AHFBGDCE
+FABGCEHD
+AHDGFBCE
+DABHGCFE
+ABCHFEDG
+DGABHFCE
