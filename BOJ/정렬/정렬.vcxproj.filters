@@ -26,5 +26,8 @@
     <ClCompile Include="29119-Задача для Альфа.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2107-포함하는 구간.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

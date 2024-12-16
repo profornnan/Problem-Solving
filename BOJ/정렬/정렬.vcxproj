@@ -145,7 +145,10 @@
     <ClCompile Include="11067-모노톤길.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="29119-Задача для Альфа.cpp" />
+    <ClCompile Include="2107-포함하는 구간.cpp" />
+    <ClCompile Include="29119-Задача для Альфа.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
