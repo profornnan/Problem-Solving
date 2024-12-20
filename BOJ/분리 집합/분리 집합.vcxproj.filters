@@ -71,5 +71,8 @@
     <ClCompile Include="11085-군사 이동.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="6334-Maze.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
