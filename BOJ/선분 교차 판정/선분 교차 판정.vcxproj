@@ -22,7 +22,10 @@
     <Text Include="input.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="12781-PIZZA ALVOLOC.cpp" />
+    <ClCompile Include="10385-This Too Shall Pass.cpp" />
+    <ClCompile Include="12781-PIZZA ALVOLOC.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="17386-선분 교차 1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
