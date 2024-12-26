@@ -35,5 +35,8 @@
     <ClCompile Include="1630-오민식.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="4262-Semi-prime H-numbers.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
