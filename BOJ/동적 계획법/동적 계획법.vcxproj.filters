@@ -369,6 +369,9 @@
     <ClCompile Include="1660-캡틴 이다솜.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1229-육각수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
