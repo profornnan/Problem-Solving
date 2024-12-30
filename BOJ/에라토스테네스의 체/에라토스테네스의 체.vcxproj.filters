@@ -38,5 +38,8 @@
     <ClCompile Include="4262-Semi-prime H-numbers.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1153-네 개의 소수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
