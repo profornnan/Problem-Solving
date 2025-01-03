@@ -74,5 +74,8 @@
     <ClCompile Include="6334-Maze.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="11638-Flipping Cards.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
