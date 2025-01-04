@@ -38,5 +38,8 @@
     <ClCompile Include="14712-넴모넴모 (Easy).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="6443-애너그램.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
