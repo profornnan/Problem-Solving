@@ -180,6 +180,9 @@
     <ClCompile Include="16441-아기돼지와 늑대.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="17921-Pokémon Ice Maze.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
