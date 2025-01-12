@@ -35,5 +35,8 @@
     <ClCompile Include="2320-끝말잇기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="20439-계획왕.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
