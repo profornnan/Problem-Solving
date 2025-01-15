@@ -375,6 +375,9 @@
     <ClCompile Include="25427-DKSH를 찾아라.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="32220-연강은 힘들어(Easy).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
