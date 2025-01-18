@@ -4,7 +4,7 @@ using namespace std;
 
 int lowerBound(const vector<int>& arr, const int target) {
 	int left = 0;
-	int right = arr.size() - 1;
+	int right = arr.size();
 
 	while (left < right) {
 		int mid = left + (right - left) / 2;
