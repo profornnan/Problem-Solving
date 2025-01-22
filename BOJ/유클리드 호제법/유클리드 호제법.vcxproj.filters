@@ -26,5 +26,8 @@
     <ClCompile Include="1033-칵테일.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="20003-거스름돈이 싫어요.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
